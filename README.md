@@ -7,6 +7,8 @@ i use jupyter notebook for a tool. first i run jupyter notebook by docker. Then 
 ![cleaning2](https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.15752-9/260934687_1002276647168715_701752162112100321_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=9XTJtzwMKBgAX8i2dP0&_nc_ht=scontent.fbkk22-8.fna&oh=1c87f62ca2e775ba545808b24918c0a9&oe=61C582AF)
 
 Then, finding missing value
-![missingV](https://www.facebook.com/messenger_media?thread_id=100002949123885&attachment_id=493028218623808&message_id=mid.%24cAABa88BCTy2Dh5yG8F9Vlc3icFeC)
+![missingV](https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.15752-9/261021064_493028225290474_3258532288862776281_n.png?_nc_cat=104&ccb=1-5&_nc_sid=ae9488&_nc_ohc=FZlLVR8Qd0wAX8Iboli&_nc_ht=scontent.fbkk22-8.fna&oh=d9f9227b26c33244d9432ad8dd55d540&oe=61C43947)
+and fixing all missing value
+![missingV](https://scontent.fbkk22-7.fna.fbcdn.net/v/t1.15752-9/260842736_313484084112147_4667766382975145030_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=gYIUL6pv-egAX_s4CEg&_nc_ht=scontent.fbkk22-7.fna&oh=34a4d0bd852da21ea4cd3554da85cebd&oe=61C69B83)
 
 

@@ -5,3 +5,9 @@ i use jupyter notebook for a tool. first i run jupyter notebook by docker. Then 
 
 ![cleaning1](https://scontent.fbkk22-4.fna.fbcdn.net/v/t1.15752-9/260625012_1054744958644524_6000141449998743686_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ATAUM1jw4KgAX_JM2ib&_nc_ht=scontent.fbkk22-4.fna&oh=4063906499236c95c3922dd5f99be56e&oe=61C4FEEB)
 ![cleaning2](https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.15752-9/260934687_1002276647168715_701752162112100321_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=9XTJtzwMKBgAX8i2dP0&_nc_ht=scontent.fbkk22-8.fna&oh=1c87f62ca2e775ba545808b24918c0a9&oe=61C582AF)
+<img src="cleaning1" alt="drawing" width="200"/>
+<img src="cleaning2" alt="drawing" width="200"/>
+Then, finding missing value
+![missingV](https://www.facebook.com/messenger_media?thread_id=100002949123885&attachment_id=493028218623808&message_id=mid.%24cAABa88BCTy2Dh5yG8F9Vlc3icFeC)
+
+

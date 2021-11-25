@@ -7,7 +7,8 @@ I use jupyter notebook for a tool. First, I run jupyter notebook by docker. Then
 ![cleaning1](image/1.png)
 ![cleaning2](image/2.png)
 
-Then, finding missing value
+Then, finding a missing value
+
 ![missingV](image/5.png)
 and fixing all missing values, for an example, the age_number column change Null to 0
 ![missingF](image/6.png)

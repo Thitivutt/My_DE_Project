@@ -15,6 +15,8 @@ I open jupyter notebook with docker and install pyspark. Next i download data fr
 ![FixMissingValue](image/FixMissing.png)
 
 ### STEP 2: BUILDING PIPELINE
+i want to tranfer my data that i already cleaned to data warehouse and query data for making dashboard.<br>
+My DAG concept is tranfer data from mysql database to google cloud storage then tranfor data from google storage to google bigquery.<br>
+<img align="left" width="450" height="250" src="image/pipeline.png">
 
-![PIPELINE](image/pipeline.png)
 

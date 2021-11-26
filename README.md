@@ -11,5 +11,6 @@ I am making a project using knowledge that I learn from road to data engineer 2.
 #### In this step you can look at my code "[covid-19.ipynb](covid-19.ipynb)"
 I open jupyter notebook with docker and install pyspark. Next i download data from this [API](https://covid19.ddc.moph.go.th/api/Cases/today-cases-line-lists). After I got data, I select the only column that I need and fix the missing value. Then upload complete file to database.
 
+##### Fix all missing value
 ![FixMissingValue](image/FixMissing.png)
 

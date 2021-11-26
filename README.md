@@ -6,10 +6,11 @@ I am making a project using knowledge that I learn from road to data engineer 2.
 
 ### STEP1: CLEANING DATA
 
-<img align="left" width="500" height="300" src="image/cleaning-data.png">
+<img align="left" width="450" height="250" src="image/cleaning-data.png">
 
 #### In this step you can look at my code "[covid-19.ipynb](covid-19.ipynb)"
 I open jupyter notebook with docker and install pyspark. Next i download data from this [API](https://covid19.ddc.moph.go.th/api/Cases/today-cases-line-lists). After I got data, I select the only column that I need and fix the missing value. Then upload complete file to database.
 
-<u>Fix all missing value</u> ![FixMissingValue](image/FixMissing.png)
+Fix all missing value
+![FixMissingValue](image/FixMissing.png)
 

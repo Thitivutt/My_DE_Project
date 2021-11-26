@@ -1,10 +1,10 @@
-## Welcome to my data engineer project
+# Welcome to my data engineer project
 I am making a project using knowledge that I learn from road to data engineer 2.0 courses. The concept of my project is loaded covid-19 Thailand found a case by API, then cleaning the data and making pipeline to load data to data warehouse then making dashboard.
 
 ![projectplan](image/project-plan.png)
 
 
-### STEP1: CLEANING DATA
+### STEP 1: CLEANING DATA
 
 <img align="left" width="450" height="250" src="image/cleaning-data.png">
 
@@ -13,4 +13,8 @@ I open jupyter notebook with docker and install pyspark. Next i download data fr
 
 **Fix all missing value**
 ![FixMissingValue](image/FixMissing.png)
+
+### STEP 2: BUILDING PIPELINE
+
+![PIPELINE](image/pipeline.png)
 

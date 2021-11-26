@@ -15,7 +15,7 @@ I open jupyter notebook with docker and install pyspark. Next i download data fr
 <img align="right" width="450" height="250" src="image/pipeline.png">
 
 I want to tranfer my data that i already cleaned to data warehouse and query data for making dashboard.<br>
-My DAG concept is tranfer data from mysql database to google cloud storage then tranfor data from google storage to google bigquery. **you can look at my DAG code "[DAG](project-covid.py)"**<br><br><br><br><br>
+My DAG concept is tranfer data from mysql database to google cloud storage then tranfor data from google storage to google bigquery. **you can look at my DAG code "[DAG](project-covid.py)"**<br><br><br>
 My DAG work successfully!!:clap:
 ![DAG](image/dag.png)
 

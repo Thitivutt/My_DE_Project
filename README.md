@@ -4,8 +4,6 @@ I am making a project using knowledge that I learn from road to data engineer 2.
 #### In this step you can look at my code "[covid-19.ipynb](covid-19.ipynb)"
 I use jupyter notebook for a tool. First, I run jupyter notebook by docker. Then I install pyspark for a tool to clean data. Next i download covid-19 data from API, after I got a data I select only column that I need and change schema timestamp columns from string to timestamp.
 
-<img src="image/1.png" width="250" height="250" />
-<img align="right" src="image/2.png" />
 ![cleaning1](image/1.png)
 ![cleaning2](image/2.png)
 

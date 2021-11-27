@@ -21,6 +21,6 @@ My DAG concept is tranfer data from mysql database to google cloud storage then 
 
 <img align="left" width="450" height="250" src="image/dashboard.png">
 
-After I finished loading data to google bigquery, I create, view table by selecting only column user_id, date, gender, province, age_number, nationality for making dashboard. Next, I use the google studio for a tool for creating a dashboard. My dashboard will show Total number of people infected with COVID-19, Number of COVID-19 cases in each province, total of covid-19 found case in the time series graph, and show nationality in the pie chart. My [Dashboard](https://datastudio.google.com/s/gFxh2wZsIBs)
+After I finished loading data to google bigquery, I create, view table by selecting only column user_id, date, gender, province, age_number, nationality for making dashboard. Next, I use the google studio for a tool for creating a dashboard. My dashboard will show Total number of people infected with COVID-19, Number of COVID-19 cases in each province, total of covid-19 found case in the time series graph, and show nationality in the pie chart. You can look at my dashboard "[Dashboard](https://datastudio.google.com/s/gFxh2wZsIBs)"
 
 

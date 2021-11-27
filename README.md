@@ -19,4 +19,6 @@ My DAG concept is tranfer data from mysql database to google cloud storage then 
 
 ### STEP 3: MAKING DASHBOARD
 
+<img align="left" width="450" height="250" src="image/dashboard.png">
+
 
